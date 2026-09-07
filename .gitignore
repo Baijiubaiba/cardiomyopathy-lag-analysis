@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.Rhistory
+.RData
+.Rproj.user/
+.env
+.env.*
+data/
+results/
+*.csv
+*.tsv
+*.rds
+*.RDS
+*.parquet
+*.xlsx
+*.zip
